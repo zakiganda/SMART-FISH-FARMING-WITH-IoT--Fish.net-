@@ -1,4 +1,4 @@
-# SMART-FISH-FARMING-WITH-IoT-Fish.net-
+# SMART-FISH-FARMING-WITH-IoT-Fish.net
 
 This project is a new idea for this Integrated Developed Project which the main focus 
 is on the agriculture industry. The project called Smart Fish Farming with IoT will maintain 
